@@ -5,7 +5,7 @@
     "license": "MIT",
     "url": "https://gitee.com/SuperWindcloud/avalonia_-editor/releases/download/7.7.7/SuperEdit.exe",
     "hash": "B9718901AA86B7853BF41AE0ED81D3380FB779E1596F99EFA9D2F6700C084207",
-    "bin": "hyperscoop.exe",
+    "bin": "SuperEdit.exe",
     "shortcuts": [
         [
             "SuperEdit.exe",
@@ -13,7 +13,7 @@
         ]
     ],
     "checkver": {
-        "gitee": "https://gitee.com/superwindcloud/hyperscoop"
+        "gitee": "https://gitee.com/superwindcloud/Avalonia_Editor"
     },
     "autoupdate": {
         "url": "https://gitee.com/SuperWindcloud/avalonia_-editor/releases/download/7.7.7/SuperEdit.exe",
