@@ -4,7 +4,7 @@
     "description": "基于 Avalonia的精美亚克力文本编辑器",
     "license": "MIT",
     "url": "https://gitee.com/SuperWindcloud/avalonia_-editor/releases/download/7.7.7/SuperEdit.exe",
-    "hash": "CAFD9F5522677E3CCB3A3201563D91BC82BD7A2099391BDC1B6DD40CD92B2772",
+    "hash": "7D519F855D843D05AA1C1F06367871CD702C0612082AC7D08C2C19F91C5FCD35",
     "bin": "SuperEdit.exe",
     "shortcuts": [
         [
