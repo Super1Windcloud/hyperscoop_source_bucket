@@ -7,3 +7,8 @@
  scoop  install  hp/hyperscoop   即可使用
 
 ```
+
+
+
+
+![img](cli.jpg)
