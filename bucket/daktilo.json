@@ -1,0 +1,25 @@
+{
+    "version": "7.7.7",
+    "homepage": "https://gitee.com/superwindcloud",
+    "description": "打字机模拟器",
+    "license": "MIT",
+    "url": "https://gitee.com/SuperWindcloud/daktilo/releases/download/114514/daktilo.exe",
+    "hash": "B21F7914108C605A502B0646881275A337B0F34278C96C519000D6C409B0E26C",
+    "bin": "daktilo.exe",
+    "shortcuts": [
+        [
+            "daktilo.exe",
+            "daktilo"
+        ]
+    ],
+    "checkver": {
+        "gitee": "https://gitee.com/superwindcloud/daktilo"
+    },
+    "autoupdate": {
+        "url": "https://gitee.com/SuperWindcloud/daktilo/releases/download/114514/daktilo.exe",
+        "hash": {
+            "url": "$url.sha256"
+        }
+    },
+    "notes": " now run  daktilo  in terminal "
+}
