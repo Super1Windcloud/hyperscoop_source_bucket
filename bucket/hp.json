@@ -4,7 +4,7 @@
     "description": "A Rust port of  scoop  windows pacakge  manager with a focus on simplicity and usability.",
     "license": "MIT",
     "url": "https://gitee.com/SuperWindcloud/hyperscoop/releases/download/7.7.7/hp.exe",
-    "hash": "ffc8baaea3d51e9abefc817d95e2fa6c1b5eb034159bec1bcef310210504e0be",
+    "hash": "8560e7adf241fc6da40916c293e7e6a6a6ff35d8b2832754754462eb933ea686",
     "bin": "hp.exe",
     "shortcuts": [
         [
