@@ -4,19 +4,37 @@
     "description": "A Rust port of  scoop  windows pacakge  manager with a focus on simplicity and usability.",
     "license": "MIT",
     "url": "https://gitee.com/SuperWindcloud/hyperscoop/releases/download/3.3.4/hp.exe",
-    "hash": "7f31933e9454c6375d8b496cfc0cbb40f015c3ed2ac92bcef68fdb8498b7b52a",
+    "hash": "e637d1d7f5a83576555292a8658408fefd376568406fe3bbac163524810ca1fe",
     "bin": "hp.exe",
-    "shortcuts": [
-        [
-            "hp.exe",
-            "hp"
-        ]
-    ],
+    "architecture": {
+        "64bit": {
+            "url": "https://gitee.com/SuperWindcloud/hyperscoop/releases/download/3.3.4/hp.exe",
+            "hash": "7f31933e9454c6375d8b496cfc0cbb40f015c3ed2ac92bcef68fdb8498b7b52a"
+        },
+        "32bit": {
+            "url": "https://gitee.com/SuperWindcloud/hyperscoop/releases/download/3.3.4/hp.exe",
+            "hash": "7f31933e9454c6375d8b496cfc0cbb40f015c3ed2ac92bcef68fdb8498b7b52a"
+        },
+        "arm64": {
+            "url": "https://gitee.com/SuperWindcloud/hyperscoop/releases/download/3.3.4/hp.exe",
+            "hash": "7f31933e9454c6375d8b496cfc0cbb40f015c3ed2ac92bcef68fdb8498b7b52a"
+        }
+    },
     "checkver": {
-        "gitee": "https://gitee.com/superwindcloud/hyperscoop"
+        "url": "https://gitee.com/superwindcloud/hyperscoop"
     },
     "autoupdate": {
-        "url": "https://gitee.com/SuperWindcloud/hyperscoop/releases/download/$version/hp.exe",
+        "architecture": {
+            "64bit": {
+                "url": "https://gitee.com/SuperWindcloud/hyperscoop/releases/download/$version/hp.exe"
+            },
+            "32bit": {
+                "url": "https://gitee.com/SuperWindcloud/hyperscoop/releases/download/$version/hp.exe"
+            },
+            "arm64": {
+                "url": "https://gitee.com/SuperWindcloud/hyperscoop/releases/download/$version/hp.exe"
+            }
+        },
         "hash": {
             "url": "$url.sha256"
         }
