@@ -4,12 +4,12 @@
     "description": "A Rust port of  scoop  windows pacakge  manager with a focus on simplicity and usability.",
     "license": "MIT",
     "url": "https://github.com/Super1Windcloud/hyperscoop/releases/download/4.0.6/hp.exe",
-    "hash": "80d31611e113398e084a0dd4ff189f4a40aa3398d1cfab5c29f97d0560bab3fb",
+    "hash": "c1678460c59244b807298688482db832d6276a78cc0a25b98e31689bf271e97d",
     "bin": "hp.exe",
     "architecture": {
         "64bit": {
             "url": "https://github.com/Super1Windcloud/hyperscoop/releases/download/4.0.6/hp.exe",
-            "hash": "80d31611e113398e084a0dd4ff189f4a40aa3398d1cfab5c29f97d0560bab3fb"
+            "hash": "c1678460c59244b807298688482db832d6276a78cc0a25b98e31689bf271e97d"
         },
         "32bit": {
             "url": "https://github.com/Super1Windcloud/hyperscoop/releases/download/4.0.6/hp-x86-4.0.6.exe#/hp.exe",
