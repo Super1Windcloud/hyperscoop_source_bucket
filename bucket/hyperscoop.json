@@ -1,38 +1,38 @@
 {
     "version": "3.3.5",
-    "homepage": "https://gitee.com/superwindcloud/hyperscoop",
+    "homepage": "https://github.com/Super1Windcloud/hyperscoop",
     "description": "A Rust port of  scoop  windows pacakge  manager with a focus on simplicity and usability.",
     "license": "MIT",
-    "url": "https://gitee.com/SuperWindcloud/hyperscoop/releases/download/3.3.5/hp.exe",
+    "url": "https://github.com/Super1Windcloud/hyperscoop/releases/download/3.3.5/hp.exe",
     "hash": "490c0f6f99365cb3b837d9eff4a4cc6db0a28dad9ad85c0bc10fdab3d598c853",
     "bin": "hp.exe",
     "architecture": {
         "64bit": {
-            "url": "https://gitee.com/SuperWindcloud/hyperscoop/releases/download/3.3.5/hp.exe",
+            "url": "https://github.com/Super1Windcloud/hyperscoop/releases/download/3.3.5/hp.exe",
             "hash": "490c0f6f99365cb3b837d9eff4a4cc6db0a28dad9ad85c0bc10fdab3d598c853"
         },
         "32bit": {
-            "url": "https://gitee.com/SuperWindcloud/hyperscoop/releases/download/3.3.5/hp.exe",
+            "url": "https://github.com/Super1Windcloud/hyperscoop/releases/download/3.3.5/hp.exe",
             "hash": "ad336da1e85be473b8f76d41d8a76520f546a655b2979f5858142dfb3b727076"
         },
         "arm64": {
-            "url": "https://gitee.com/SuperWindcloud/hyperscoop/releases/download/3.3.5/hp.exe",
+            "url": "https://github.com/Super1Windcloud/hyperscoop/releases/download/3.3.5/hp.exe",
             "hash": "ef6e9589d2c2d703c649b52c96acb97d3e36cfc1b318f6560c0b9170c5f4a4a8"
         }
     },
     "checkver": {
-        "url": "https://gitee.com/superwindcloud/hyperscoop"
+        "url": "https://github.com/Super1Windcloud/hyperscoop"
     },
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://gitee.com/SuperWindcloud/hyperscoop/releases/download/$version/hp.exe"
+                "url": "https://github.com/Super1Windcloud/hyperscoop/releases/download/$version/hp.exe"
             },
             "32bit": {
-                "url": "https://gitee.com/SuperWindcloud/hyperscoop/releases/download/$version/hp.exe"
+                "url": "https://github.com/Super1Windcloud/hyperscoop/releases/download/$version/hp.exe"
             },
             "arm64": {
-                "url": "https://gitee.com/SuperWindcloud/hyperscoop/releases/download/$version/hp.exe"
+                "url": "https://github.com/Super1Windcloud/hyperscoop/releases/download/$version/hp.exe"
             }
         },
         "hash": {
