@@ -4,20 +4,20 @@
     "description": "A Rust port of  scoop  windows pacakge  manager with a focus on simplicity and usability.",
     "license": "MIT",
     "url": "https://github.com/Super1Windcloud/hyperscoop/releases/download/4.2.3/hp.exe",
-    "hash": "89311121d8d43a79dbc86a42c39fc02cd6b13b370315a9506b9b0b3e23b9ae13",
+    "hash": "2deadaa484fa018828471eabb31b2753fba7f6fe42b34321b9e5f604cabaf8f6",
     "bin": "hp.exe",
     "architecture": {
         "64bit": {
             "url": "https://github.com/Super1Windcloud/hyperscoop/releases/download/4.2.3/hp.exe",
-            "hash": "89311121d8d43a79dbc86a42c39fc02cd6b13b370315a9506b9b0b3e23b9ae13"
+            "hash": "2deadaa484fa018828471eabb31b2753fba7f6fe42b34321b9e5f604cabaf8f6"
         },
         "32bit": {
             "url": "https://github.com/Super1Windcloud/hyperscoop/releases/download/4.2.3/hp-x86-4.2.3.exe#/hp.exe",
-            "hash": "35f11ef956ced0481760c5eb31e5964671fe66c7d9fa1d61dc17df19d2feec42"
+            "hash": "bfcbea96afdb013736a7401253607b10cb082ccfdaa0cc1ccec3fbb3d4a127ad"
         },
         "arm64": {
             "url": "https://github.com/Super1Windcloud/hyperscoop/releases/download/4.2.3/hp-arm64-4.2.3.exe#/hp.exe",
-            "hash": "cf6cf1a8ee64a4ee9a79d3ea00a6e9a0d517ea06390fdb72157de66b8d522343"
+            "hash": "2087f3bd3524d626c5dfb816de9ecf64e868809ad18eb3f92f55161599d14740"
         }
     },
     "checkver": {
