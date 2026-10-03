@@ -1,22 +1,22 @@
 {
-    "version": "4.4.2",
+    "version": "4.5.0",
     "homepage": "https://github.com/Super1Windcloud/hyperscoop",
     "description": "A Rust port of  scoop  windows pacakge  manager with a focus on simplicity and usability.",
     "license": "MIT",
-    "url": "https://github.com/Super1Windcloud/hyperscoop/releases/download/4.4.2/hp.exe",
+    "url": "https://github.com/Super1Windcloud/hyperscoop/releases/download/4.5.0/hp.exe",
     "hash": "227e09543d7301fc0a187378a1b58a98a7b9f75dd2f9def4671e73bb78efeaa2",
     "bin": "hp.exe",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Super1Windcloud/hyperscoop/releases/download/4.4.2/hp.exe",
+            "url": "https://github.com/Super1Windcloud/hyperscoop/releases/download/4.5.0/hp.exe",
             "hash": "227e09543d7301fc0a187378a1b58a98a7b9f75dd2f9def4671e73bb78efeaa2"
         },
         "32bit": {
-            "url": "https://github.com/Super1Windcloud/hyperscoop/releases/download/4.4.2/hp-x86-4.4.2.exe#/hp.exe",
+            "url": "https://github.com/Super1Windcloud/hyperscoop/releases/download/4.5.0/hp-x86-4.5.0.exe#/hp.exe",
             "hash": "9efd29c919cc84b9f35ca2df5052f25b7a3e5fccc739d68750650215410d58c2"
         },
         "arm64": {
-            "url": "https://github.com/Super1Windcloud/hyperscoop/releases/download/4.4.2/hp-arm64-4.4.2.exe#/hp.exe",
+            "url": "https://github.com/Super1Windcloud/hyperscoop/releases/download/4.5.0/hp-arm64-4.5.0.exe#/hp.exe",
             "hash": "c4dbf9361c918683bd243d00198c689fb8cf2f66e5b034aca2afbdfd5e8b96d0"
         }
     },
