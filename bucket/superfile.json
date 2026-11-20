@@ -1,12 +1,12 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "description": "Desktop file viewer and editor built with Rust and GPUI Kit.",
     "homepage": "https://github.com/Super1Windcloud/SuperfileView",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Super1Windcloud/SuperfileView/releases/download/v0.1.2/superfile-v0.1.2-windows-x86_64.zip",
-            "hash": "43881feacf1e63e150d26252ace2be0e5d63fed0c533d9b0a061856a9605b17d"
+            "url": "https://github.com/Super1Windcloud/SuperfileView/releases/download/v0.1.3/superfile-v0.1.3-windows-x86_64.zip",
+            "hash": "ab4d01dc24eae7393f0f93ce719d49b13892ac5f6f446d3bf7c766fd5282c2fa"
         }
     },
     "bin": "superfile.exe",
